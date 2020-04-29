@@ -4,4 +4,4 @@ cahuella/theme /etc/regolith/styles/ca-huel-la
 cahuella/root /etc/regolith/styles/ca-huel-la
 cahuella/rofi.rasi /etc/regolith/styles/ca-huel-la
 cahuella/landscape.png /usr/share/backgrounds
-cahuella/regolith-cahuella.xml /usr/share/gnome-background-properties/regolith-ca-huel-la.xml
+cahuella/regolith-ca-huel-la.xml /usr/share/gnome-background-properties
