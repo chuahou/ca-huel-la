@@ -1,3 +1,22 @@
+# ca-huel-la
+
+A fork of regolith-linux/regolith-styles for my own customisations to cahuella.
+The readme below this section as well as most files are as-is from the upstream
+repo.
+
+To build, first make sure there are no more local changes, then run
+
+	dpkg-buildpackage -b -us -uc
+
+To clean, run
+
+	git clean -xdf
+
+I have opted to make changes directly to the `cahuella/` directory so that I can
+potentially merge upstream changes in, while changing the install file for
+debian to regolith-look-ca-huel-la.install so that this can be installed in
+parallel to cahuella.
+
 # regolith-styles
 
 A convention for organizing Xresource-based theme data.
