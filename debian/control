@@ -20,7 +20,7 @@ Provides: regolith-look
 
 Package: regolith-look-ca-huel-la
 Architecture: any
-Depends: ${misc:Depends}, regolith-styles, arc-icon-theme, cahuella, fonts-materialdesignicons-webfont, fonts-source-code-pro-ttf
+Depends: ${misc:Depends}, regolith-styles, arc-icon-theme, cahuella, fonts-materialdesignicons-webfont, fonts-source-code-pro-ttf, regolith-look-cahuella
 Description: Regolith R1.3 custom look by chuahou
 Provides: regolith-look
 
