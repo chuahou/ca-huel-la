@@ -17,6 +17,12 @@ potentially merge upstream changes in, while changing the install file for
 debian to regolith-look-ca-huel-la.install so that this can be installed in
 parallel to cahuella.
 
+## About the new wallpaper landscape.png
+
+I have this file, but I have no idea where it is from. Please do email me and
+let me know if you are the artist and would like me to take it down / attribute
+it accordingly.
+
 # regolith-styles
 
 A convention for organizing Xresource-based theme data.
