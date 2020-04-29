@@ -1,11 +1,11 @@
 ! -- Styles - Colors
-#include "/etc/regolith/styles/cahuella/color"
+#include "/etc/regolith/styles/ca-huel-la/color"
 
 ! -- Styles - Fonts
-#include "/etc/regolith/styles/cahuella/typeface"
+#include "/etc/regolith/styles/ca-huel-la/typeface"
 
 ! -- Styles - Theme
-#include "/etc/regolith/styles/cahuella/theme"
+#include "/etc/regolith/styles/ca-huel-la/theme"
 
 ! -- Applications
 ! These files map values defined above into specific app settings.
