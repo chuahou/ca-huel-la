@@ -4,4 +4,4 @@
 
 dpkg-buildpackage -b -us -uc
 git clean -xdf
-sudo dpkg -i ../regolith-ca-huel-la*.deb
+sudo dpkg -i ../regolith-look-ca-huel-la*.deb
