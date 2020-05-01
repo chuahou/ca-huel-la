@@ -1,7 +1,7 @@
 #define gtk_theme           Cahuella
-#define icon_theme          Arc
+#define icon_theme          Paper
 #define desktop_wallpaper   /usr/share/backgrounds/landscape.png
-#define rofi_theme          /etc/regolith/styles/cahuella/rofi.rasi
+#define rofi_theme          /etc/regolith/styles/ca-huel-la/rofi.rasi
 #define theme_terminal_scrollbar never
 
 #define i3wm_window_border_size         1
