@@ -1,3 +1,7 @@
+# ABANDONED
+
+as of 3 May 2020. I will be making my own theme data separately.
+
 # ca-huel-la
 
 A fork of regolith-linux/regolith-styles for my own customisations to cahuella.
